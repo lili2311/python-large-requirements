@@ -73,7 +73,7 @@ drf-nested-routers==0.11.1
 enum34==1.1.6  # pruned
 factory-boy==2.9.2
 html5lib<0.99999999
-httplib2==0.9
+httplib2==0.18.0
 indeed==0.0.4
 ipython<6.0
 jinja2
