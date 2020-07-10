@@ -60,7 +60,7 @@ django-storages==1.1.8
 django-supervisor==0.3.1  # pruned
 django-tables2==0.14.0  # pruned
 django-transaction-hooks==0.1.4  # pruned
-django-two-factor-auth==1.4.0
+django-two-factor-auth==1.12
 django-webpack-loader
 django-wkhtmltopdf==3.1.0
 Django==1.7.11
