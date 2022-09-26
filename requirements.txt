@@ -77,7 +77,7 @@ httplib2==0.9
 indeed==0.0.4
 ipython<6.0
 jinja2
-joblib==0.10.0
+joblib==1.2.0
 json2html==1.0.1
 jsonfield==1.0.0
 jsonpickle==1.0.0
