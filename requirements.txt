@@ -17,7 +17,7 @@ cloudpickle==0.2.1
 Collectfast==0.1.13  # pruned
 coverage==3.7.1  # pruned
 credstash==1.8.0
-cryptography==2.3.1
+cryptography==41.0.0
 defusedxml==0.5.0
 dingus==0.3.4  # pruned
 django-admin-ip-whitelist==0.1.1  # pruned
