@@ -38,7 +38,7 @@ django-flashpolicies==1.5
 django-fsm==1.5.1  # pruned
 django-geckoboard==1.2.7  # pruned
 django-geoip==0.5
-django-grappelli>=2.7,<2.8
+django-grappelli>=2.15.2,<2.8
 django-guardian==1.4.1
 django-libsass==0.7
 django-mailer==0.1.0  # pruned
