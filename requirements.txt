@@ -80,4 +80,4 @@ jinja2
 joblib==0.10.0
 json2html==1.0.1
 jsonfield==1.0.0
-jsonpickle==1.0.0
+jsonpickle==3.3.0
